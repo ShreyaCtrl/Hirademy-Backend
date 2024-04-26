@@ -65,8 +65,6 @@ To start using the Employee management microservice APIs, follow these steps:
 - **Request body** is a JSON object containing the employee data fields.
 - Make sure to add your own MongoDB connection string in the `.env` file and do remember to not make it public.
 
-Certainly! Here's a template for creating a README file that includes detailed steps on how to run your application and how to use the Postman Collection that you exported:
-
 ## ⚙️ Technologies Used
 - Python 3.x
 - MongoDB
